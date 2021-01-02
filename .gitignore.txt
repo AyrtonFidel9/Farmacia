@@ -1,3 +1,4 @@
+.vs/
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
 [Bb]in/
 [Oo]bj/
@@ -13,7 +14,6 @@ TestResults
 *.user
 *.sln.docstates
 /.vs
-.vs/
 
 # Build results
 [Dd]ebug/
