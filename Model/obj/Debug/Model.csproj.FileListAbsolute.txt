@@ -1,0 +1,5 @@
+C:\Users\fideb\OneDrive\Desktop\Farmacia\Model\bin\Debug\Model.dll
+C:\Users\fideb\OneDrive\Desktop\Farmacia\Model\bin\Debug\Model.pdb
+C:\Users\fideb\OneDrive\Desktop\Farmacia\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive\Desktop\Farmacia\Model\obj\Debug\Model.dll
+C:\Users\fideb\OneDrive\Desktop\Farmacia\Model\obj\Debug\Model.pdb
