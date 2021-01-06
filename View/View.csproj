@@ -95,5 +95,10 @@
       <Name>Controller</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagenes\" />
+    <Folder Include="TiposLetras\" />
+    <Folder Include="Ventanas\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
